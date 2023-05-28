@@ -100,3 +100,8 @@ h4 {
 .leftAligned {
 	text-align: left;
 }
+
+#myPhoto {
+	float: left;
+	margin: 30px;
+}
