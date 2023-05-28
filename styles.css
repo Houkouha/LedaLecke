@@ -97,6 +97,16 @@ h4 {
 	margin-bottom: 5px;
 }
 
+table {
+	margin: 20px auto;
+	border-collapse: collapse;
+}
+
+table td {
+	border: 1px solid black;
+	padding: 5px 50px;
+}
+
 .leftAligned {
 	text-align: left;
 }
@@ -105,3 +115,4 @@ h4 {
 	float: left;
 	margin: 30px;
 }
+
